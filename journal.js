@@ -1,0 +1,1 @@
+var journal ["Dm 14 is osm."];
